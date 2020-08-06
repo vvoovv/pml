@@ -1,3 +1,5 @@
+# Moved to https://github.com/prochitecture/pml
+
 # PML2PythonTranslator (Development Step I)
 The goal of the PML2PythonTranslator is to translate PML-code (PML stands for Prochitecture Markup Language) into Python code that describes the style of a building and is used in the [blender-osm](https://github.com/vvoovv/blender-osm) plugin for Blender. A description of the concept of this style can be found at [here](https://github.com/vvoovv/blender-osm/wiki/Concept-2.0). An additional goal of this development step was to study, how classes could made reusable for the node-based visual editor, which can be found in the repository [blosm-nodes](https://github.com/vvoovv/blosm-nodes/), and for other side projects of the blender-osm plugin. Only a subset of PML has been realized in this development step in order to get a feeling of the problems of this concept and to enable a discussion.
 ### Content
